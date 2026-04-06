@@ -1,0 +1,22 @@
+{
+    "Summary": "Bug fixes, employee tools, expense tracking, and billing improvements.",
+    "Version": "1.0.3",
+    "Release_date": "2026-04-06",
+    "Changes": [
+        "Fixed sell item quantity issues",
+        "Added seller name support in sales entries",
+        "Renamed Stuff section to Employee",
+        "Renamed Product section to Services",
+        "Fixed repeated pop-up windows to show only one window",
+        "Added daily expense system",
+        "Added employee salary system",
+        "Added employee attendance system",
+        "Added payment method support for Cash and Online",
+        "Added monthly sale report search option",
+        "Added password protection for deleting sell invoices",
+        "Added discount fetcher",
+        "Added network date support",
+        "Improved Treeview and added extra functions",
+        "Added two table types"
+    ]
+}
